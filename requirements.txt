@@ -1,0 +1,11 @@
+numpy
+pandas
+yfinance
+scikit-learn
+matplotlib
+ta
+xgboost
+torch
+statsmodels
+seaborn
+joblib
