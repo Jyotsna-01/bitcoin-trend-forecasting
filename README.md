@@ -1,6 +1,5 @@
 # Bitcoin Trend Forecasting: Analyzing and Predicting Cryptocurrency Trends
 
-Rebuilt project based on the provided mini project document.
 This bundle contains scripts to download Bitcoin data, engineer features, train three models (ARIMA, XGBoost, LSTM),
 evaluate them, and produce plots of actual vs predicted prices.
 
